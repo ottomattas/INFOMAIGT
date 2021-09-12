@@ -1,5 +1,5 @@
 # INFOMAIGT
-###### *Includes two submodules for technical implementations, namely [INFOMAIGT-AGENTS](https://github.com/ottomattas/INFOMAIGT-AGENTS) for agents and [INFOMAIGT-PCG](https://github.com/ottomattas/INFOMAIGT-PCG) for procedural content generation.*
+###### *Includes two submodules for technical implementations under [./Assignments](./Assignments), namely [INFOMAIGT-AGENTS](https://github.com/ottomattas/INFOMAIGT-AGENTS) for agents and [INFOMAIGT-PCG](https://github.com/ottomattas/INFOMAIGT-PCG) for procedural content generation.*
 AI for Game Technology
 
 - Course description: http://www.cs.uu.nl/education/vak/INFOMAIGT
